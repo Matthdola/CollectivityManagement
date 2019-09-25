@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.productmanagement.vues;
 
 import com.mycompany.productmanagement.controllers.CommuneController;
@@ -12,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author macbookair
+ * @author Matthias DOLA
  */
 public class CommuneForm extends javax.swing.JFrame {
 
