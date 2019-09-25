@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.productmanagement.vues;
 
 import com.mycompany.productmanagement.controllers.CommuneController;
@@ -12,8 +7,8 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
 /**
- *
- * @author macbookair
+ * This form present the list of all Communes in the Commune table in the database
+ * @author Matthias DOLA
  */
 public class ListCommunesForm extends javax.swing.JFrame {
 

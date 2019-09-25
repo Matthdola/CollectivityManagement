@@ -7,7 +7,7 @@ import java.util.Date;
  * @author Matthias DOLA
  * classe abstraite de la collectivite locale
  */
-public abstract class CollectiviteLocale { // declaration de la classe generique CollectiviteLocale
+public abstract class CollectiviteLocale { 
     protected int id;
     protected String nom;
     protected int population;

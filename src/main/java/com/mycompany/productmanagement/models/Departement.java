@@ -1,13 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.productmanagement.models;
 
 /**
  *
- * @author macbookair
+ * @author Matthias DOLA
  */
 public class Departement extends CollectiviteLocale {
     private CommunautesCommunes[] communautes;

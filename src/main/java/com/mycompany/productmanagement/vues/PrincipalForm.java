@@ -6,8 +6,8 @@
 package com.mycompany.productmanagement.vues;
 
 /**
- *
- * @author macbookair
+ * This form present the Main form of the project
+ * @author Matthias DOLA
  */
 public class PrincipalForm extends javax.swing.JFrame {
 

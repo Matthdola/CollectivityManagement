@@ -18,6 +18,10 @@ import java.util.logging.Logger;
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 
+/**
+ * This class provide static methods for CRUD operation in Products Table
+ * @author Matthias DOLA 
+ */
 public class ProductController {
     public static Connection con = ConnectionDatabase.con;
     

@@ -11,8 +11,8 @@ import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author macbookair
+ * This class provide connection to the MySQL database within MySQL driver
+ * @author Matthias DOLA
  */
 public class ConnectionDatabase {
     public static Connection con = getConnection();

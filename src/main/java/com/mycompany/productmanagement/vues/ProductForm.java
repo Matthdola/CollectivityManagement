@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.productmanagement.vues;
 
 import com.mycompany.productmanagement.controllers.ProductController;
@@ -16,8 +11,8 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 import javax.swing.table.DefaultTableModel;
 
 /**
- *
- * @author macbookair
+ * This form present the list of all Products in the Product table in the database
+ * @author Matthias DOLA
  */
 public class ProductForm extends javax.swing.JFrame {
 
@@ -157,7 +152,7 @@ public class ProductForm extends javax.swing.JFrame {
         txt_id.setEditable(false);
         txt_id.setEnabled(false);
 
-        lbl_image.setBackground(new java.awt.Color(255, 255, 255));
+        lbl_image.setBackground(new java.awt.Color(102, 0, 0));
         lbl_image.setForeground(new java.awt.Color(153, 0, 0));
         lbl_image.setBorder(javax.swing.BorderFactory.createCompoundBorder());
 

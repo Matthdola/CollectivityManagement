@@ -1,5 +1,9 @@
 package com.mycompany.productmanagement.models;
 
+/**
+ * 
+ * @author Matthias DOLA
+ */
 public class CommunautesAgglomeration extends CommunautesCommunes {
     public CommunautesAgglomeration(String nom, Commune[] communautes) throws Exception {
         super(nom, communautes);

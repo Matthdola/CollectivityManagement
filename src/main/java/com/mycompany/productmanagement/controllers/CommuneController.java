@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.productmanagement.controllers;
 
 import com.mycompany.productmanagement.models.Commune;
@@ -15,6 +10,10 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * This class provide static methods for CRUD operation in Commune Table
+ * @author Matthias DOLA 
+ */
 public class CommuneController {
     public static Connection con = ConnectionDatabase.con;
     
